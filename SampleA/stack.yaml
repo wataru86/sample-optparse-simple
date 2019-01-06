@@ -1,0 +1,6 @@
+resolver: lts-13.1
+packages:
+- .
+extra-deps:
+- github: fpco/optparse-simple
+  commit: 2e816d643e813a32057242c6992ff7ce9c9eceb1
